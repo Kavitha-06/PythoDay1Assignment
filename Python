@@ -1,0 +1,23 @@
+Python
+
+
+1. What is Python? What are the ways to install python in your PC ?
+
+Python is an interpreted, highlevel, general purpose programming language.
+
+Ways to install python:
+
+1. By installing anaconda from www.anaaconda.com
+2. By installing python from www.python.org
+3. By installing python from www.jetbrains.com/pycharm/
+and many more
+
+2. What are code environments? What are the types of coding environment?
+
+Code environment is place where we can code, compile, run and see the output of a program.
+
+Types of coding environment:
+
+Text editor
+Full IDE's
+Notebook environment
